@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "eda1_behav" "xil_defaultlib.eda1" -log "elaborate.log" 

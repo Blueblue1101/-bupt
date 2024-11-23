@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "compra4bit_behav" "xil_defaultlib.compra4bit" -log "elaborate.log" 

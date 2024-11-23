@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../project_bcd_green.srcs/sources_1/new/bcd_green.vhd" \
+"../../../../project_bcd_green.srcs/sim_1/new/bcdtogreen.vhd" \
+
+# Do not sort compile order
+nosort

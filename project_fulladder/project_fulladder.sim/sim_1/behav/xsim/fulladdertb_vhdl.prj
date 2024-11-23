@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../project_fulladder.srcs/sources_1/new/fulladder.vhd" \
+"../../../../project_fulladder.srcs/sim_1/new/fulladdertb.vhd" \
+
+# Do not sort compile order
+nosort
